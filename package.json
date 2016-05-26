@@ -1,0 +1,17 @@
+{
+  "name": "gulp-css-sprite",
+  "version": "1.0.0",
+  "description": "my first gulp",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-css-spriter": "^0.3.3",
+    "gulp-rimraf": "^0.2.0",
+    "run-sequence": "^1.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igoo",
+  "license": "ISC"
+}
