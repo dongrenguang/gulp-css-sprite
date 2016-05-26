@@ -10,8 +10,9 @@
     "run-sequence": "^1.2.1"
   },
   "scripts": {
+    "build": "./node_modules/.bin/gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "igoo",
-  "license": "ISC"
+  "author": "Dong, Renguang <dongrenguang@gmail.com>",
+  "license": "MIT"
 }
